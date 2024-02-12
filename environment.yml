@@ -1,0 +1,10 @@
+name: Skillbox_eight
+channels:
+  -conda-forge
+dependencies:
+  - pip:
+    - python-chromedriver-binary
+    - allure-pytest
+
+
+
